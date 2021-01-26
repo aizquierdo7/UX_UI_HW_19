@@ -1,7 +1,6 @@
 console.log("Your index.js file is loaded correctly!");
 
-function fade() {
-    $('.preloader').fadeOut(1000)
-}
+$(".img1").on("click", function() {
+  $(".img1").animate({ width: "500px" });
+});
 
-setTimeout(fade, 3000)

@@ -50,14 +50,13 @@ html, body {
     background-color: #FFFFFF;
     text-align: left;
   }
-  .content img{
+  .content img {
     width: auto;
     height: 150px;
     float: left;
     margin-right: 15px;
   }
-}
-.preloader{
+.preloader {
   position: fixed;
   top: 0;
   width: 100%;

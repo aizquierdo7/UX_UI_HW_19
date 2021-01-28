@@ -67,7 +67,7 @@ html, body {
   .section-38 {
     height: 435px;
     padding-top: 0px;
-    background-color: #1b1b1f;
+    background-color: #000000;
   }
   .div-block-463 {
     width: 720px;
@@ -102,6 +102,7 @@ html, body {
   }
   .text-block-595 {
     font-size: 16px;
+    text-align: center;
   }
   .text-span-55 {
     color: #f06060;

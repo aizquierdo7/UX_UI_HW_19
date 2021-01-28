@@ -84,7 +84,7 @@ html, body {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
-    font-family: Poppins, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #fff;
     font-size: 35px;
     font-weight: 500;
@@ -94,7 +94,7 @@ html, body {
     margin-right: auto;
     margin-left: auto;
     padding-top: 50px;
-    font-family: Poppins, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #fff;
     font-size: 18px;
     line-height: 25px;
@@ -117,7 +117,7 @@ html, body {
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
-    font-family: Poppins, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     color: #fff;
     font-size: 18px;
   }

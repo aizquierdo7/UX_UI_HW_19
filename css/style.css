@@ -102,7 +102,7 @@ html, body {
   /* My Work Section */
   .myWork {
     padding: 60px 30px;
-    padding-top: 0;
+    padding-top: 25px;
     background-color: #EBEBEB;
     font-family: Arial, Helvetica, sans-serif;
   }

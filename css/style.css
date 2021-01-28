@@ -198,6 +198,137 @@ button {
   }
   .flexContainer div {
     width: 100%;
+  header {
+    background-color: #000000;
+    padding: 15px;
+  }
+  header ul {
+    float: right;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  header li {
+    display: inline-block;
+    padding: 0px 10px;
+  }
+  header p {
+    display: inline-block;
+  }
+  .heroImg {
+    background-color: #EBEBEB;
+    padding: 100px 15px;
+  }
+  .content {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #FFFFFF;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .content img {
+    width: auto;
+    height: 150px;
+    float: left;
+    margin-right: 15px;
+  }
+  button {
+    padding: 15px;
+    background-color: #000000;
+    color: white;
+    font-size: 15px;
+    border-radius: 4px;
+  }
+  .section-38 {
+    height: 435px;
+    padding-top: 0px;
+    background-color: #000000;
+  }
+  .div-block-463 {
+    width: 720px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 100px;
+  }
+  .text-block-594 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 35px;
+    font-weight: 500;
+  }
+  .text-block-756 {
+    width: 650px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+  }
+  .text-block-595 {
+    font-size: 16px;
+    text-align: center;
+  }
+  .text-span-55 {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .text-block-598 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 15px;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    font-size: 18px;
+  }
+  .text-span-57 {
+    color: #ffffff;
+  }
+  .heading {
+    text-align: center;
+    padding: 15px 5px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  /* My UX Skills Section */
+  .flexContainer {
+    display: flex;
+    padding: 60px 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .flexContainer div {
+    width: 33%;
+    padding: 25px;
+  }
+  .flexContainer img {
+    width: 350px;
+    height: auto;
+  }
+  /* My Work Section */
+  .myWork {
+    padding: 60px 30px;
+    padding-top: 25px;
+    padding-bottom: 80px;
+    background-color: #EBEBEB;
+    font-family: Arial, Helvetica, sans-serif;
   }
   .workGrid {
     display: grid;

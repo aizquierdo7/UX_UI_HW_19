@@ -88,6 +88,7 @@ html, body {
     display: flex;
     padding: 60px 30px;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
   }
   .flexContainer div {
     width: 33%;
@@ -102,6 +103,7 @@ html, body {
     padding: 60px 30px;
     padding-top: 0;
     background-color: #EBEBEB;
+    font-family: Arial, Helvetica, sans-serif;
   }
   .workGrid {
     display: grid;
@@ -115,7 +117,7 @@ html, body {
   }
   .workGrid img {
     width: 100%;
-    max-width: 400px;
+    max-width: 350px;
     margin: 0 auto;
     display: block;
   }
